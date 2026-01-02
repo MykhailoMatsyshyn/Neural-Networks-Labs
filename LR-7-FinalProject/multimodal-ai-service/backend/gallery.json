@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1765538770778,
+    "prompt": "згенеруй слона",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yg4yhtAiArcW4UmNfRZq6PDF/user-1hPFAsHE0DzLblJ3etKwo8sB/img-EHCGcHjBNBLsG1xdyR7hEZpR.png?st=2025-12-12T10%3A26%3A10Z&se=2025-12-12T12%3A26%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-12-12T11%3A17%3A21Z&ske=2025-12-13T11%3A17%3A21Z&sks=b&skv=2024-08-04&sig=Ozw1nehobvIqkysZ397GhH3t2q1FcRMRhPUOb6GmYIM%3D",
+    "timestamp": "2025-12-12T13:26:10.778586",
+    "model": "dall-e-2",
+    "size": "1024x1024",
+    "quality": null,
+    "style": null
+  },
+  {
+    "id": 1765538809761,
+    "prompt": "згенеруй мамонта",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yg4yhtAiArcW4UmNfRZq6PDF/user-1hPFAsHE0DzLblJ3etKwo8sB/img-38ZOC17Fl6uzsND4gLHcr3Tb.png?st=2025-12-12T10%3A26%3A49Z&se=2025-12-12T12%3A26%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=b1a0ae1f-618f-4548-84fd-8b16cacd5485&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-12-12T09%3A14%3A48Z&ske=2025-12-13T09%3A14%3A48Z&sks=b&skv=2024-08-04&sig=nFufRfHDBonxnovAZzpre5vgroc7BfRlNmZWNOeJOmY%3D",
+    "timestamp": "2025-12-12T13:26:49.761535",
+    "model": "dall-e-2",
+    "size": "256x256",
+    "quality": null,
+    "style": null
+  },
+  {
+    "id": 1765538845407,
+    "prompt": "згенеруй мавпу",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yg4yhtAiArcW4UmNfRZq6PDF/user-1hPFAsHE0DzLblJ3etKwo8sB/img-sge1YQlfMzpTvdDyUz89HpOp.png?st=2025-12-12T10%3A27%3A24Z&se=2025-12-12T12%3A27%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-12-12T11%3A22%3A49Z&ske=2025-12-13T11%3A22%3A49Z&sks=b&skv=2024-08-04&sig=3vrW7g%2BQ2LeEzYAq/gqPo9ia5RbI4UxFat5ZoQSPjEM%3D",
+    "timestamp": "2025-12-12T13:27:25.407449",
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "hd",
+    "style": "vivid"
+  },
+  {
+    "id": 1765538894069,
+    "prompt": "горилу!!",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yg4yhtAiArcW4UmNfRZq6PDF/user-1hPFAsHE0DzLblJ3etKwo8sB/img-KKzeS4bcgBXJufCogY2lcuDw.png?st=2025-12-12T10%3A28%3A13Z&se=2025-12-12T12%3A28%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=b1a0ae1f-618f-4548-84fd-8b16cacd5485&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-12-12T11%3A28%3A13Z&ske=2025-12-13T11%3A28%3A13Z&sks=b&skv=2024-08-04&sig=ZB2fqWSvLoBdOzPIkwqbiSSLV/jTIY2aIoi1HA%2BLgxI%3D",
+    "timestamp": "2025-12-12T13:28:14.069769",
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "hd",
+    "style": "natural"
+  }
+]

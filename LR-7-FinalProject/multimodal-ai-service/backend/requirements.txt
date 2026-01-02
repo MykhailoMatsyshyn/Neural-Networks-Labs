@@ -1,0 +1,20 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+pydantic>=2.9.0
+openai>=1.54.0
+Pillow>=11.0.0
+python-dotenv>=1.0.1
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+google-api-python-client>=2.100.0
+pandas>=2.1.0
+
+# ChromaDB для RAG (потребує Microsoft Visual C++ Build Tools на Windows)
+# Якщо встановлення не вдається, спробуйте:
+# 1. Встановити Visual C++ Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+# 2. Або встановити chromadb окремо: pip install chromadb
+# 3. Або використати requirements-base.txt (без RAG функціональності)
+chromadb>=0.5.0
+
