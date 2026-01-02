@@ -54,8 +54,9 @@ USE_LM_STUDIO = os.getenv("USE_LM_STUDIO", "false").lower() == "true"
 # (для швидкого тестування - не рекомендується для production)
 if not OPENAI_API_KEY:
     # Розкоментуйте наступний рядок та вставте ваш API ключ:
-    os.environ["OPENAI_API_KEY"] = "..."
-    OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+    # os.environ["OPENAI_API_KEY"] = "your-api-key-here"
+    # OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+    pass
 
 # ==================== INIT ====================
 app = FastAPI()

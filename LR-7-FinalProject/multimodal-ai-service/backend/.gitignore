@@ -29,6 +29,11 @@ chroma_db/
 # Environment
 .env
 .env.local
+.env.*.local
+
+# Google OAuth credentials and tokens
+token.json
+credentials.json
 
 # IDE
 .vscode/
